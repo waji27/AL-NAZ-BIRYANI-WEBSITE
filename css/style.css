@@ -359,6 +359,7 @@
 
 .team-item img {
     transition: .5s;
+    height: 27vh;
 }
 
 .team-item:hover img {
